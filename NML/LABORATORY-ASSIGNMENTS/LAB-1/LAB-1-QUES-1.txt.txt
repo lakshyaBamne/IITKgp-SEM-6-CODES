@@ -1,0 +1,13 @@
+NUMERICAL METHODS LABORATORY
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LABORATORY - 1 (5th JAN 2023)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+QUES-1 : IMPLEMENT THE NEWTON'S DIVIDED DIFFERENCES INTERPOLATION METHOD (IN ANY PROGRAMMING LANGUAGE)
+
+	   -> GIVEN A SET OF n+1 COORDINATES, FIND AN nth DEGREE POLYNOMIAL THAT PASSES THROUGH THESE POINTS
+	   -> FIND THE EQUATION OF THE POLYNOMIAL AND GIVE VALUE OF THE POLYNOMIAL ON ANY OTHER ARBITRARY POINT
+	   -> PLOT THE GRAPH FOR THE FOUND POLYNOMIAL USING ANY TECHNOLOGY
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
